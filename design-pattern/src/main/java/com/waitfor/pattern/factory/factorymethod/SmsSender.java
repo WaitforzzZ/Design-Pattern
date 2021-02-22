@@ -1,4 +1,4 @@
-package com.waitfor.pattern.abstractfactory;
+package com.waitfor.pattern.factory.factorymethod;
 
 /**
  * 发送sms

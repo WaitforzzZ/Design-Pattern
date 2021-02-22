@@ -1,4 +1,4 @@
-package com.waitfor.pattern.factorymethod;
+package com.waitfor.pattern.factory.simplefactory;
 
 /**
  * 发送邮件和短信的例子

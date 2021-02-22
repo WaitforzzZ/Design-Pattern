@@ -1,4 +1,4 @@
-package com.waitfor.pattern.simplefactory;
+package com.waitfor.pattern.factory.simplefactory;
 
 /**
  * 发送mail

@@ -1,4 +1,4 @@
-package com.waitfor.pattern.factorymethod;
+package com.waitfor.pattern.factory.factorymethod;
 
 
 /**
